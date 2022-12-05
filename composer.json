@@ -1,0 +1,20 @@
+{
+    "name": "ruimatosoficial/php-simples",
+    "description": "",
+    "type": "library",
+    "license": "GPL-3.0.-or-later",
+    "authors": [
+        {
+            "name": "Rui Matos",
+            "email": "rui.microk@gmail.com"
+    }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\Rui\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
