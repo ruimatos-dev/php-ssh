@@ -2,7 +2,7 @@
     "name": "ruimatos-dev/php-simples",
     "description": "",
     "type": "library",
-    "license": "GPL-3.0.-or-later",
+    "license": "MIT",
     "authors": [
         {
             "name": "Rui Matos",
