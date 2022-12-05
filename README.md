@@ -3,6 +3,11 @@
 Projeto criação para criação do primeiro packagist. 
 É um arquivo muito simples.
 
+## Instalação 
+``` php
+composer require ruimatos-dev/php-simples
+```
+
 ## Como utilizar? 
 
 Para usar basta seguir o exemplo abaixo:
